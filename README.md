@@ -1,9 +1,4 @@
-## Hi there 👋
 
-
-**Ennin-Rashid/Ennin-Rashid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # 💫 About Me:
 👋 Hi there! I'm Ennin Rashid<br>A passionate Data scientist & AI/ML Engineer a with strong<br> foundation in computer engineering and python development<br> with a love for turning ideas into into code and ideas into functional applications.<br> I thrive on problem-solving, building clean solutions, <br>and exploring the endless possibilities of tech—whether it’s<br> crafting web apps, tinkering with new tools, or collaborating <br>on open-source projects. Let’s connect, code, and create <br>something awesome together! 💻✨<br><br>🔧 Tech Stack: Python | Flask| Tensorflow | ...<br>and always learning!<br>🌱 Current Quest: Leveling up my Data science  game and <br>mastering AI/ML wizardry.
 
